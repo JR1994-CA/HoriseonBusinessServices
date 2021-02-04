@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* .header changed to header since it was changed in the html. div's also changed to nav */
+/* changed to header and nav since it was changed in the html.*/
 
 header {
     padding: 20px;
@@ -95,11 +95,11 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h3 .benefit-brand h3 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -109,6 +109,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+*/
 
 .benefit-lead img {
     display: block;
@@ -182,13 +183,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
