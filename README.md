@@ -13,7 +13,9 @@ Restructuring HTML with semantic elements
 Adjusting CSS to work with HTML 
 
 Fixing malfunctioning links
-    Horiseon logo that clicks back to the site
-    Navigation bars to corresponding content bar
+
+Horiseon logo that clicks back to the site
+
+Navigation bars to corresponding content bar
 
 Added some styling to the Footer to match the Header
