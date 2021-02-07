@@ -19,3 +19,11 @@ Horiseon logo that clicks back to the site
 Navigation bars to corresponding content bar
 
 Added some styling to the Footer to match the Header
+
+# Screenshots 
+
+
+
+# Deployed Application Link
+
+https://jr1994-ca.github.io/HoriseonBusinessServices/
